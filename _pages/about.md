@@ -28,7 +28,7 @@ Publications (\* denotes equal contribution)
 
 __DualAfford: Learning Collaborative Visual Affordance for Dual-gripper Object Manipulation__
 
-<img width="195" height="130" align="left" src="https://warshallrho.github.io/images/2022-dualafford.gif"/>
+<img width="195" height="130" align="left" src="https://sxy7147.github.io/images/2022-dualafford.gif"/>
 
 &nbsp;  **Yan Zhao***, [Ruihai Wu\*](https://warshallrho.github.io), Zhehuan Chen, [Yourong Zhang](https://www.linkedin.com/in/yourong-zhang-2b1aab23a/),  [Qingnan Fan](https://fqnchina.github.io/), [Kaichun Mo](https://www.cs.stanford.edu/~kaichun), [Hao Dong](http://zsdonghao.github.io/)  
 &nbsp;  arXiv:2207.01971 [cs.CV]  
@@ -38,7 +38,7 @@ __DualAfford: Learning Collaborative Visual Affordance for Dual-gripper Object M
 
 __VAT-Mart: Learning Visual Action Trajectory Proposals for Manipulating 3D ARTiculated Objects__  
 
-<img width="195" height="130" align="left" src="https://warshallrho.github.io/images/2022-vatmart.gif"/>
+<img width="195" height="130" align="left" src="https://sxy7147.github.io/images/2022-vatmart.gif"/>
 
 &nbsp;  [Ruihai Wu\*](https://warshallrho.github.io), **Yan Zhao***, [Kaichun Mo\*](https://www.cs.stanford.edu/~kaichun), [Zizheng Guo](https://guozz.cn), [Yian Wang](https://github.com/galaxy-qazzz), [Tianhao Wu](https://moistchi.github.io/tianhaowu.github.io/), [Qingnan Fan](https://fqnchina.github.io/), [Xuelin Chen](https://xuelin-chen.github.io/), [Leonidas J. Guibas](https://geometry.stanford.edu/member/guibas/), [Hao Dong](http://zsdonghao.github.io/)  
 &nbsp;  ICLR 2022  

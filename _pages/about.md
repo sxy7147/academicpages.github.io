@@ -48,8 +48,8 @@ __VAT-Mart: Learning Visual Action Trajectory Proposals for Manipulating 3D ARTi
 
 
 
-Selected Honors and Awards
+<!-- Selected Honors and Awards
 ------
 
 - Undergraduate Scientific Research Award, *Yuanpei College, Peking University, 2022*
-- Freshmen Scholarship, *Peking University, 2018*
+- Freshmen Scholarship, *Peking University, 2018* -->

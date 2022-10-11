@@ -30,7 +30,8 @@ __DualAfford: Learning Collaborative Visual Affordance for Dual-gripper Object M
 
 <img width="195" height="130" align="left" src="https://sxy7147.github.io/images/2022-dualafford.gif"/>
 
-&nbsp;  **Yan Zhao***, [Ruihai Wu\*](https://warshallrho.github.io), Zhehuan Chen, [Yourong Zhang](https://www.linkedin.com/in/yourong-zhang-2b1aab23a/),  [Qingnan Fan](https://fqnchina.github.io/), [Kaichun Mo](https://www.cs.stanford.edu/~kaichun), [Hao Dong](http://zsdonghao.github.io/)  
+&nbsp;  **Yan Zhao***, [Ruihai Wu\*](https://warshallrho.github.io), Zhehuan Chen, [Yourong Zhang](https://www.linkedin.com/in/yourong-zhang-2b1aab23a/),  [Qingnan Fan](https://fqnchina.github.io/), 
+&nbsp;  [Kaichun Mo](https://www.cs.stanford.edu/~kaichun), [Hao Dong](http://zsdonghao.github.io/)  
 &nbsp;  arXiv:2207.01971 [cs.CV]  
 &nbsp;  [\[Paper\]](https://arxiv.org/pdf/2207.01971.pdf), [\[Project\]](https://hyperplane-lab.github.io/DualAfford/)  
 <br>
@@ -40,7 +41,8 @@ __VAT-Mart: Learning Visual Action Trajectory Proposals for Manipulating 3D ARTi
 
 <img width="195" height="130" align="left" src="https://sxy7147.github.io/images/2022-vatmart.gif"/>
 
-&nbsp;  [Ruihai Wu\*](https://warshallrho.github.io), **Yan Zhao***, [Kaichun Mo\*](https://www.cs.stanford.edu/~kaichun), [Zizheng Guo](https://guozz.cn), [Yian Wang](https://github.com/galaxy-qazzz), [Tianhao Wu](https://moistchi.github.io/tianhaowu.github.io/), [Qingnan Fan](https://fqnchina.github.io/), [Xuelin Chen](https://xuelin-chen.github.io/), [Leonidas J. Guibas](https://geometry.stanford.edu/member/guibas/), [Hao Dong](http://zsdonghao.github.io/)  
+&nbsp;  [Ruihai Wu\*](https://warshallrho.github.io), **Yan Zhao***, [Kaichun Mo\*](https://www.cs.stanford.edu/~kaichun), [Zizheng Guo](https://guozz.cn), [Yian Wang](https://github.com/galaxy-qazzz), 
+&nbsp;  [Tianhao Wu](https://moistchi.github.io/tianhaowu.github.io/), [Qingnan Fan](https://fqnchina.github.io/), [Xuelin Chen](https://xuelin-chen.github.io/), [Leonidas J. Guibas](https://geometry.stanford.edu/member/guibas/), [Hao Dong](http://zsdonghao.github.io/)  
 &nbsp;  ICLR 2022  
 &nbsp;  [\[Paper\]](https://arxiv.org/pdf/2106.14440.pdf), [\[Project\]](https://hyperplane-lab.github.io/vat-mart/), [\[Code\]](https://github.com/warshallrho/VAT-Mart), [\[Video\]](https://www.youtube.com/watch?v=HjhsLKf1eQY)  
 

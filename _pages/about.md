@@ -31,7 +31,7 @@ __DualAfford: Learning Collaborative Visual Affordance for Dual-gripper Object M
 <img width="195" height="130" align="left" src="https://sxy7147.github.io/images/2022-dualafford.gif"/>
 
 &nbsp;  **Yan Zhao***, [Ruihai Wu\*](https://warshallrho.github.io), Zhehuan Chen, [Yourong Zhang](https://www.linkedin.com/in/yourong-zhang-2b1aab23a/),  [Qingnan Fan](https://fqnchina.github.io/), [Kaichun Mo](https://www.cs.stanford.edu/~kaichun), [Hao Dong](http://zsdonghao.github.io/)  
-&nbsp;  arXiv:2207.01971 [cs.CV]  
+&nbsp;  ICLR 2023  
 &nbsp;  [\[Paper\]](https://arxiv.org/pdf/2207.01971.pdf), [\[Project\]](https://hyperplane-lab.github.io/DualAfford/)  
 <br>
 
